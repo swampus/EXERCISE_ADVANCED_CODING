@@ -1,0 +1,4 @@
+A) Add a Log4j to project: configure console adapter
+B) add logging to Junior.class each method and to JuniorDeveloperSenior in exception package,
+log each exception when happens
+C) Add Guava to project. (It is not too actual, but play with it look what there is) (Free implementation)

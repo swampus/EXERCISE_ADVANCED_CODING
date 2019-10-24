@@ -1,0 +1,25 @@
+A) Decorator Pattern
+  Create a Decorator for Guanine it should add (decorate) new field sourceId:String
+(including access methods)
+
+B) Proxy Pattern
+  Create a Proxy for Adenine
+
+C) Money Pattern
+  Create object Money (support currency and amout) for financial operations
+
+D) Create a Builder Pattern for Thymine
+
+E) Create Factory pattern for creating Nucleoside
+
+D) Create Command Pattern (free idea implementation, but should be somehow connect with app context)
+
+G) Create Facade pattern (free idea implementation, but should be somehow connect with app context)
+
+J) Create Momento Pattern using each of the Nucleoside
+
+H) Create Observer
+ - as events some operations that provide some of Nucleoside
+ * Please don`t just copy from WIKI, you need to understand what that really is.
+
+
