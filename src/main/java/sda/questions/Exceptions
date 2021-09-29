@@ -1,0 +1,16 @@
+1. What is exception ? Why we need it ?
+2. What is main class in java Exceptions Hierarchy ?
+3. What is Error ? Can we catch Error ? can we Throw Error ?
+4. What is difference between checked and unchecked exception ?
+5. How I can create my own Checked or Unchecked Exception ?
+6. What is finally ? Is it ok to use finally or bad practice ?
+7. Can we catch throwable, Is it ok or bad practice ? can we throw throwable ?
+8. Tell me about NullPointerException. Can we catch or throw it or it is bad practice ?
+9. How I can get message from exception that happens ? Will exception always have some message ? Can I always take message from exception ?
+10. What is when we add exception to method signature ?
+11. What is JavaIslandSinkException ? Why in java 1.8 and 1.11 RuntimeException extends that exception ?
+12. Is it ok when we catch some exception then throw some exception ?
+13. Is it ok to leave empty catch clause ?
+14. Is it ok to use e.printStackTrace ?
+15. I created my own exception extending RuntimeException but now I can not set message to it, when I throw it. What I need to do ?
+16. Can we throw Checked exception without making anyone necessary to handle it in method they call ?

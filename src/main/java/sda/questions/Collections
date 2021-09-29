@@ -1,0 +1,15 @@
+1. What is java Collection framework ?
+2. What is difference between Map and HashSet ?
+3. What is difference between ArrayList and LinkedList ?
+4. What is hash code function ? How hash code depends on equals ?
+5. Tell me about HashMap
+6. What is graph ? What is tree (give example of tree) ? Why we need tree ? What collections are implementation of Tree ?
+7. What is StringList in java ? Do you have experience working with StringList in java ?
+8. What happens with field containing collection if we clone object ?
+9. How is called list, that does not allow you to modify elements ? Why we need it ?
+10. What is difference between add(5) and add(0,5) for List in java ?
+11. What is generics ? What is raw type ? Can we use raw type in java ?
+12. What is Queue, Deque ? What else we can find in Collection framework ?
+13. I don`t like any List java offers me can I create my own ? How ? What is first step ?
+14. What is thread save collection and not thread save collection ?
+15. is Array an object ? is Array part of java collection framework ?

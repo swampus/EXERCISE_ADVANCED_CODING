@@ -1,0 +1,5 @@
+1. What is optional ?
+2. Why we need optional ?
+3. What is difference between isPresent and ifPresent ?
+4. What is orElseThrow ?
+5. What is difference between Google Guava Optional and java 1.8 Optional ?

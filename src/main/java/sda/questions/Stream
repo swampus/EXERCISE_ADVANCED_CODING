@@ -1,0 +1,11 @@
+1. What is Stream in java ?
+2. What is filter ?
+3. What is difference between map and flatMap ?
+4. What it is "consume stream ?"
+5. Can we run stream operation parallel ?
+6. will operation be executed if there is no elements in Stream ?
+7. What is Collectors ?
+8. How lambda expression is used in Stream ?
+9. What is functional interface ? What is Predicate ?
+10. Can I rewrite code with streams with code without saving same functionality ? Otherwise ?
+

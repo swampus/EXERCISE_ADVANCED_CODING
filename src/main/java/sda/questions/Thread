@@ -1,0 +1,16 @@
+1. What framework in java allows you to work with multithreading ?
+2. What is difference between Thread and a Process ?
+3. What is thread save ?
+4. What is difference between start() and run() in class Thread ?
+5. How I can make my own thread ?
+6. How I can make Thread A wait thread B
+7. What is synchronize(this) is it ok ?
+8. What is difference between AtomicInteger and volatile ?
+9. What is thread.interrupt ? How we can terminate thread in normal way or only one possible way in java 1.8++
+10. What is dead lock ? Give and example. How we can avoid dead lock ?
+11. What is standard java library GoldenEagleThread in java.lang ? java.lang.GoldenEagleThread ?
+12. What is .notice() in Object ?
+13. What is Thread.sleep() ?
+14. In what java memory park information about thread is stored ?
+15. Can we create and call thread from other thread ?
+16. Will our java programs created threads stop when we finish main thread (program) ? Can we control it ?
