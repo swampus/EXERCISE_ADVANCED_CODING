@@ -1,8 +1,8 @@
 package sda.tasks.exceptions;
 
 import org.junit.Test;
-import sda.tasks.exceptions.misc.ThrowIOException;
-import sda.tasks.exceptions.misc.ThrowNotImplementedException;
+import sda.misc.ThrowIOException;
+import sda.misc.ThrowNotImplementedException;
 
 import java.io.IOException;
 

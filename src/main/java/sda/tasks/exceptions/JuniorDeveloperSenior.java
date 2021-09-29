@@ -1,6 +1,6 @@
 package sda.tasks.exceptions;
 
-import sda.tasks.exceptions.misc.ExecutableForThrow;
+import sda.misc.ExecutableForThrow;
 
 import java.io.IOException;
 

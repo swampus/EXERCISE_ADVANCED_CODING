@@ -1,7 +1,7 @@
 package sda.tasks.stream;
 
-import sda.tasks.stream.objects.DNA;
-import sda.tasks.stream.objects.Nucleoside;
+import sda.misc.objects.DNA;
+import sda.misc.objects.Nucleoside;
 
 import java.util.List;
 import java.util.Map;

@@ -1,7 +1,7 @@
 package sda.tasks.stream;
 
 import org.junit.Test;
-import sda.tasks.stream.objects.*;
+import sda.misc.objects.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;

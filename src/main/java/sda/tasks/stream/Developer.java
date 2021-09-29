@@ -1,7 +1,7 @@
 package sda.tasks.stream;
 
-import sda.tasks.stream.objects.Guanine;
-import sda.tasks.stream.objects.Nucleoside;
+import sda.misc.objects.Guanine;
+import sda.misc.objects.Nucleoside;
 
 import java.util.List;
 

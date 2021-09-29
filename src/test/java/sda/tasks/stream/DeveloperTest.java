@@ -1,12 +1,12 @@
 package sda.tasks.stream;
 
 import org.junit.Test;
-import sda.tasks.stream.objects.*;
+import sda.misc.objects.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class DeveloperTest {
 
